@@ -2,7 +2,7 @@
 
 ## 为何开发这个插件
 
-因为uniapp support收费了 并且新版本用不了 
+因为uniapp support收费了 并且新版本用不了 有问题提issues
 
 ## 插件介绍
 
