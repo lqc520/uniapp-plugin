@@ -28,6 +28,23 @@
 
 ## 版本变动
 
+### v1.0.3
+
+- [ssues4需求](https://github.com/lqc520/uniapp-plugin/issues/4)
+- 借助uni-helper对androidPrivacy.json、manifest.json、pages.json 文件语法支持和提示
+- 新建页面注册到pages.json 目前仅支持主包
+- pages.json 中的路径识别
+- 微信小程序发行到微信官方后台
+- 语法支持加强
+
+### v1.0.2
+
+- 适配mac适配
+
+### v1.0.1
+
+- 支持easycom
+
 ### v1.0.0
 
 - 支持运行网页、微信小程序
@@ -36,28 +53,21 @@
 - sass、less环境下支持rpx upx
 - ~/@ 识别为项目路径
 
-### v1.0.1
 
-- 支持easycom
 
-### v1.0.2
 
-- 适配mac适配
 
-### v1.0.3
 
-- [ssues4需求](https://github.com/lqc520/uniapp-plugin/issues/4)
-- 借助uni-helper增强语法json文件支持
 
 ## 使用教程
 
 本工具依赖于hx需要配置安装的根目录
 
-![image-20230408181904355](https://raw.githubusercontent.com/lqc520/uniapp-plugin/main/img/image-20230408181904355.png)
+![image-20230408181904355](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/image-20230408181904355.png)
 
 启动项目
 
-![1681358169857](https://raw.githubusercontent.com/lqc520/uniapp-plugin/main/img/1681358169857.png)
+![1681358169857](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/1681358169857.png)
 
 ## 感谢
 
@@ -67,6 +77,6 @@
 
 ## 支持
 
-![1681358169857](https://raw.githubusercontent.com/lqc520/uniapp-plugin/main/img/zs.jpg)
+![1681358169857](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/zs.jpg)
 
 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。谢谢您的支持！
