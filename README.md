@@ -1,13 +1,13 @@
 # Uniapp插件开发
 
-## 为何开发这个插件
 
-因为uniapp support收费了 并且新版本用不了 有问题提issues
+
+感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
 
 ## 插件介绍
 
 ### 英语
-
+- [Download the latest version](https://github.com/lqc520/uniapp-plugin/releases)
 - [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
 - A free Uniapp plugin that can compile uniapp projects created by HbuilderX
 - You need to set the HbuilderX installation root directory in the background - > Tools - > Uniapp- > Set the HbuilderX installation root directory
@@ -17,7 +17,7 @@
 - You can install the wechat-mini-program-support plugin Auxiliary use
 
 ### 中文
-
+- [最新版本下载](https://github.com/lqc520/uniapp-plugin/releases)
 - [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
 - 一款免费的 Uniapp插件 可以编译运行发信HbuilderX创建的uniapp项目
 - 需要再后台设置->工具->Uniapp->设置HbuilderX安装根目录
@@ -34,7 +34,7 @@
 - 借助uni-helper对androidPrivacy.json、manifest.json、pages.json 文件语法支持和提示
 - 新建页面注册到pages.json 目前仅支持主包
 - pages.json 中的路径识别
-- 微信小程序发行到微信官方后台
+- 微信小程序发行到微信官方后台（请先用hx走一遍）
 - 语法支持加强
 
 ### v1.0.2
@@ -68,6 +68,30 @@
 启动项目
 
 ![1681358169857](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/1681358169857.png)
+
+
+
+语法提示 路径识别
+
+![01](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/01.gif)
+
+
+
+注册页面
+
+![02](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/02.gif)
+
+内置组件支持加强
+
+![03](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/03.gif)
+
+路径提示
+
+![04](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/04.gif)
+
+上传到微信官方后台
+
+![05](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/05.png)
 
 ## 感谢
 
