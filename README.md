@@ -4,6 +4,12 @@
 
 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
 
+
+
+## 最新版下载
+
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.3.C/Uniapp-1.0.3.zip)
+
 ## 插件介绍
 
 ### 英语
