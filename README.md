@@ -8,7 +8,7 @@
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.3.C/Uniapp-1.0.3.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.A/Uniapp-1.0.4.zip)
 
 ## 插件介绍
 
@@ -33,6 +33,10 @@
 - 可以安装wechat-mini-program-support插件辅助使用
 
 ## 版本变动
+
+### v1.0.4
+
+- vue3项目运行
 
 ### v1.0.3
 
