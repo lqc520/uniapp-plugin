@@ -8,7 +8,7 @@
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.A/Uniapp-1.0.4.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.B/Uniapp-1.0.4.zip)
 
 ## 插件介绍
 
@@ -37,8 +37,16 @@
 ### v1.0.4
 
 - vue3项目运行
+
 - 条件编译
-- 页面url路径识别调整
+
+- 页面url路径识别
+
+- 分包注册
+
+- rpx upx 全局支持
+
+  
 
 ### v1.0.3
 
