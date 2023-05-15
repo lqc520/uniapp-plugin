@@ -8,7 +8,7 @@
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.B/Uniapp-1.0.4.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.B/Uniapp.zip)
 
 ## 插件介绍
 
@@ -20,17 +20,17 @@
 - To start the Mini Program - > Tools - > Uniapp- > Set the WeChat developer tool installation root directory
 - Currently only supports running\ publishing h5 and WeChat Mini Program, and supports rpx upx in the sass less environment
 - ~/@is recognized as the project path
-- You can install the wechat-mini-program-support plugin Auxiliary use
 
 ### 中文
 - [最新版本下载](https://github.com/lqc520/uniapp-plugin/releases)
 - [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
-- 一款免费的 Uniapp插件 可以编译运行发信HbuilderX创建的uniapp项目
-- 需要再后台设置->工具->Uniapp->设置HbuilderX安装根目录
-- 如需启动小程序->工具->Uniapp->设置微信开发者工具安装根目录
-- 目前仅支持运行\发布 h5和微信小程序，sass less 环境下支持rpx upx
+- 一款免费的 Uniapp插件,可以编译运行发布uniapp项目
+- 需要在后台配置：设置->工具->Uniapp->设置HbuilderX安装根目录
+- 如需启动小程序：设置->工具->Uniapp->设置微信开发者工具安装根目录
+- 目前仅支持运行\发布 h5和微信小程序，支持rpx，upx单位
+- 内置组件语法提示
 - ~/@ 识别为项目路径
-- 可以安装wechat-mini-program-support插件辅助使用
+- easycom组件识别
 
 ## 版本变动
 
@@ -44,9 +44,8 @@
 
 - 分包注册
 
-- rpx upx 全局支持
-
   
+
 
 ### v1.0.3
 
@@ -83,11 +82,11 @@
 
 本工具依赖于hx需要配置安装的根目录
 
-![image-20230408181904355](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/image-20230408181904355.png)
+![image-20230408181904355](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/07.png)
 
 启动项目
 
-![1681358169857](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/1681358169857.png)
+![1681358169857](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/06.png)
 
 
 
@@ -109,9 +108,7 @@
 
 ![04](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/04.gif)
 
-上传到微信官方后台
 
-![05](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/05.png)
 
 ## 感谢
 
