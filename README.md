@@ -8,7 +8,7 @@
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.B/Uniapp.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.5.A/Uniapp-1.0.5.zip)
 
 ## 插件介绍
 
@@ -33,6 +33,10 @@
 - easycom组件识别
 
 ## 版本变动
+
+### v1.0.5
+
+- 分包注册路径问题修复（多了root路径）
 
 ### v1.0.4
 
