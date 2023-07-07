@@ -8,7 +8,7 @@
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.4.B/Uniapp-1.0.4.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.6.A/Uniapp-1.0.6.zip)
 
 ## 插件介绍
 
@@ -34,6 +34,18 @@
 
 ## 版本变动
 
+### v1.0.6
+
+- 生命周期函数提示
+- cli项目取消路径识别（自行配置路径别名）
+
+### v1.0.5
+
+- 分包问题修复
+- 条件编译折叠
+- 支付宝、抖音编译发行（不自动打开工具、因为还是需要手动导入项目）
+- image属性src添加jpg、png文件路径提示(后续改成和img提示一样)
+
 ### v1.0.4
 
 - vue3项目运行
@@ -46,7 +58,6 @@
 
 - rpx upx 全局支持
 
-  
 
 ### v1.0.3
 
