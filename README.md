@@ -2,13 +2,13 @@
 
 
 
-v>感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
+> 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
 
 
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.6.B/Uniapp-1.0.6.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.8-231.1/Uniapp1.0.8-231.1.zip)
 
 ## 插件介绍
 
@@ -24,13 +24,28 @@ v>感谢您的关注和支持！如果您喜欢我的插件并想要支持我，
 ### 中文
 - [最新版本下载](https://github.com/lqc520/uniapp-plugin/releases)
 - [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
-- 一款免费的 Uniapp插件 可以编译运行发信HbuilderX创建的uniapp项目
+- 一款免费的 Uniapp插件 可以编译运行发行HbuilderX创建的uniapp项目
 - 需要再后台设置->工具->Uniapp->设置HbuilderX安装根目录
 - 如需启动小程序->工具->Uniapp->设置微信开发者工具安装根目录
+- 语法提示
 
 ## 常见问题
 
-### 1、如何使用分包功能
+### 如何使用插件创建创建cli项目
+
+#### 创建vue3项目
+
+![image-20230827213525022](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/27-1.png)
+
+> degit和克隆差不多 如果使用有问题可能是github访问受限制、和插件无关 [官网文档](https://uniapp.dcloud.net.cn/quickstart-cli.html)
+
+#### 创建vue2项目
+
+![image-20230827213850706](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/27-2.png)
+
+> 选中第二个cli就行 不用管理下发的vue3选项  并且会提示选择项目模板 [官网文档](https://uniapp.dcloud.net.cn/quickstart-cli.html)
+
+### 如何使用分包功能
 
 ```
 #pages.json添加以下结构 root路径可以自定义并且自行创建root目录 在项目那边新建页面可以识别到subPackages参数 可以新建分包页面并且注册到pages.json 
@@ -42,19 +57,21 @@ v>感谢您的关注和支持！如果您喜欢我的插件并想要支持我，
   ]
 ```
 
-### 2、如何使用微信发行到官方后台功能
+### 如何使用微信发行到官方后台功能
 
 先使用hbx执行一遍 [使用教程](https://hx.dcloud.net.cn/cli/publish-mp-weixin?id=uploadPrivateKey) 后续可在webstorm配置参数 直接发行 
 
-### 3、插件支不支持子模块
+### 插件支不支持子模块
 
 目前插件不支持子模块功能 并且多个功能受限制
-
-### 
 
 
 
 ## 版本变动
+
+### v1.0.8
+
+- 创建cli项目
 
 ### v1.0.7
 
