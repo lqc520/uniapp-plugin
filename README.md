@@ -2,7 +2,7 @@
 
 
 
-感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
+v>感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
 
 
 
@@ -13,6 +13,7 @@
 ## 插件介绍
 
 ### 英语
+
 - [Download the latest version](https://github.com/lqc520/uniapp-plugin/releases)
 - [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
 - A free Uniapp plugin that can compile uniapp projects created by HbuilderX
@@ -27,8 +28,39 @@
 - 需要再后台设置->工具->Uniapp->设置HbuilderX安装根目录
 - 如需启动小程序->工具->Uniapp->设置微信开发者工具安装根目录
 
+## 常见问题
+
+### 1、如何使用分包功能
+
+```
+#pages.json添加以下结构 root路径可以自定义并且自行创建root目录 在项目那边新建页面可以识别到subPackages参数 可以新建分包页面并且注册到pages.json 
+"subPackages": [
+    {
+      "root": "pages/xxx",
+      "pages": []
+    }
+  ]
+```
+
+### 2、如何使用微信发行到官方后台功能
+
+先使用hbx执行一遍 [使用教程](https://hx.dcloud.net.cn/cli/publish-mp-weixin?id=uploadPrivateKey) 后续可在webstorm配置参数 直接发行 
+
+### 3、插件支不支持子模块
+
+目前插件不支持子模块功能 并且多个功能受限制
+
+### 
+
+
 
 ## 版本变动
+
+### v1.0.7
+
+- 生命周期函数优化
+- 路径跳转优化
+- .xx +tab 默认生成view
 
 ### v1.0.6
 
