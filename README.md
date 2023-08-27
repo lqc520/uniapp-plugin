@@ -43,7 +43,7 @@
 
 ![image-20230827213850706](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/27-2.png)
 
-> 选中第二个cli就行 不用管理下发的vue3选项  并且会提示选择项目模板 [官网文档](https://uniapp.dcloud.net.cn/quickstart-cli.html)
+> 选中第二个cli就行 不用管理下方的vue3选项  并且会提示选择项目模板 [官网文档](https://uniapp.dcloud.net.cn/quickstart-cli.html)
 
 ### 如何使用分包功能
 
@@ -108,7 +108,7 @@
 
 ### v1.0.3
 
-- [ssues4需求](https://github.com/lqc520/uniapp-plugin/issues/4)
+- [#4](https://github.com/lqc520/uniapp-plugin/issues/4)
 - 借助uni-helper对androidPrivacy.json、manifest.json、pages.json 文件语法支持和提示
 - 新建页面注册到pages.json 目前仅支持主包
 - pages.json 中的路径识别
