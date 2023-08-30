@@ -1,4 +1,4 @@
-# Uniapp插件开发
+Uniapp插件开发
 
 
 
@@ -12,24 +12,41 @@
 
 ## 插件介绍
 
-### 英语
+### 正式版
+[![插件版本](https://img.shields.io/jetbrains/plugin/v/21470.svg)![插件版本](https://img.shields.io/jetbrains/plugin/d/21470.svg)](https://plugins.jetbrains.com/plugin/21470-uniapp-tool/versions)
 
-- [Download the latest version](https://github.com/lqc520/uniapp-plugin/releases)
-- [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
-- A free Uniapp plugin that can compile uniapp projects created by HbuilderX
-- You need to set the HbuilderX installation root directory in the background - > Tools - > Uniapp- > Set the HbuilderX installation root directory
-- To start the Mini Program - > Tools - > Uniapp- > Set the WeChat developer tool installation root directory
+### 功能
 
-
-### 中文
-- [最新版本下载](https://github.com/lqc520/uniapp-plugin/releases)
-- [Bug提交](https://github.com/lqc520/uniapp-plugin/issues)
-- 一款免费的 Uniapp插件 可以编译运行发行HbuilderX创建的uniapp项目
-- 需要再后台设置->工具->Uniapp->设置HbuilderX安装根目录
-- 如需启动小程序->工具->Uniapp->设置微信开发者工具安装根目录
-- 语法提示
+*   最新版本下载[ releases](https://github.com/lqc520/uniapp-plugin/releases)
+*   插件市场下载 [uniapp tool](https://plugins.jetbrains.com/plugin/21470-uniapp-tool)
+*   [使用说明](https://plugins.jetbrains.com/plugin/21470-uniapp-tool/readme)
+*   Bug[ 提交](https://github.com/lqc520/uniapp-plugin/issues)
+*   一款免费的 Uniapp插件 可以编译运行HbuildrX创建的uniapp项目
+*   启动项目需要再后台  设置->工具->Uniapp->设置HbuilderX安装根目录
+*   如需启动小程序      设置->工具->Uniapp->设置微信开发者工具安装根目录
+*   支持编译运行vue2/vue3项目
+*   支持rpx、upx、easycom 组件
+*   支持uniapp的内置组件语法提示
+*   支持对非cli项目的@/~路径识别、cli项目可以自行配置
+*   支持创建页面、包路径自动注册、支持分包路径
+*   支持发行微信小程序到官方后台
+*   支持uniapp的条件编译、代码块折叠、高亮
+*   支持文件androidPrivacy.json、manifest.json、pages.json 语法提示
+*   支持创建uniapp cli项目 支持创建vue2项目\vue3项目\vue3-ts项目
 
 ## 常见问题
+
+### 如何配置路径
+
+#### win配置
+
+![win](https://plugins.jetbrains.com/files/21470/2121-page/dc681f77-fb9f-4e56-9015-f03f308d475b)
+
+#### mac配置
+
+ /Applications/HBuilderX.app/  
+
+>要配置自己的项目的实际路径
 
 ### 如何使用插件创建创建cli项目
 
