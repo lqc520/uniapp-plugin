@@ -1,10 +1,10 @@
 ---
 name: Feature Request
-about: Have a good idea? Please don't hesitate to write it down, describe the new feature.
+about: 有个好主意吗？请毫不犹豫地写下来，描述一下新功能.
 ---
 
 <!--
-You don't need to remove this comment section, it's invisible on the issues page.
+您不需要删除此评论部分，它在问题页面上是不可见的.
 
 ## General remarks
 
@@ -12,22 +12,22 @@ You don't need to remove this comment section, it's invisible on the issues page
 
 -->
 
-**What's it about?**
+**是关于什么的?**
 <!--
-A clear and concise description of what this feature request is.
+对该功能要求的清晰简洁的描述.
 -->
 
-**What's the reason why we need it?**
+**我们需要它的原因是什么?**
 <!--
-Please tell us if you think it's a necessary feature for Uniapp Tool. Give us as many details about it as you can. 
-Two or more use cases might be very helpful when other contributors try to go through this request. If you have some references,
-please just add it below.
+如果您认为这是Uniapp Tool的必要功能，请告诉我们。请尽可能多地向我们提供有关它的详细信息。
+当其他贡献者尝试处理此请求时，两个或多个用例可能非常有用。如果你有一些参考资料，
+请把它添加到下面.
 -->
 
-I believe this is an important feature for Uniapp Tool. There're a few use cases:
+我相信这是Uniapp Tool的一个重要功能。 有一些用例:
 
-* case one
-* case two
+* 案例一
+* 案例二
 * ...
 
-Please leave your comments below if there's anyone agrees with me. Or just give me a thumb up.
+如果有人同意我的观点，请在下面留下你的评论。或者只是竖起大拇指。

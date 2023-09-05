@@ -4,11 +4,12 @@ Uniapp插件开发
 
 > 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
 
+> 个人能力和精力有限 不是每一个需求都能解决 会优先处理赞赏用户的需求 优先处理bug 提issues请按模板提问 不按模板提问有可能会直接被我关闭 谢谢！
 
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.8-231.1/Uniapp1.0.8-231.1.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.8-231.2/Uniapp1.0.8-231.2.zip)
 
 ## 插件介绍
 
@@ -33,6 +34,8 @@ Uniapp插件开发
 *   支持uniapp的条件编译、代码块折叠、高亮
 *   支持文件androidPrivacy.json、manifest.json、pages.json 语法提示
 *   支持创建uniapp cli项目 支持创建vue2项目\vue3项目\vue3-ts项目
+*   支持运行uniapp子项目\子项目代码提示
+*   支持分包路径跳转\代码提示\跳转
 
 ## 常见问题
 
@@ -89,6 +92,9 @@ Uniapp插件开发
 ### v1.0.8
 
 - 创建cli项目
+- 支持运行子项目\子项目代码提示
+- 支持分包路径跳转\代码提示
+- 功能优化
 
 ### v1.0.7
 
