@@ -9,7 +9,7 @@ Uniapp插件开发
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.8-231.2/Uniapp1.0.8-231.2.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.8-231.4/Uniapp1.0.8-231.4.zip)
 
 ## 插件介绍
 
@@ -68,7 +68,7 @@ Uniapp插件开发
 ### 如何使用分包功能
 
 ```
-#pages.json添加以下结构 root路径可以自定义并且自行创建root目录 在项目那边新建页面可以识别到subPackages参数 可以新建分包页面并且注册到pages.json 
+#pages.json添加以下结构 root路径可以自定义 在项目那边新建页面可以识别到subPackages参数 可以新建分包页面并且注册到pages.json 
 "subPackages": [
     {
       "root": "pages/xxx",
@@ -83,7 +83,11 @@ Uniapp插件开发
 
 ### 插件支不支持子模块
 
-目前插件不支持子模块功能 并且多个功能受限制
+目前插件支持子模块功能 目前仅支持一个子项目  有多个子项目的需求提issues
+
+### 插件支不支持编译其他类型项目 比方说快手啥的
+
+可以支持 有需要提issues 
 
 
 
@@ -94,7 +98,10 @@ Uniapp插件开发
 - 创建cli项目
 - 支持运行子项目\子项目代码提示
 - 支持分包路径跳转\代码提示
-- 功能优化
+- 支持微信小程序上传查看日志
+- 支持动态配置插件部分功能 兼容一些性能较差的设备
+- 分包页面创建优化 微信小程序配置key路径优化
+- 整体代码提示功能优化 页面路径跳转优化 支持在pages.json 点击分包root 选中目录等
 
 ### v1.0.7
 
