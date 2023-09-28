@@ -2,14 +2,14 @@ Uniapp插件开发
 
 
 
-> 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。
+> 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。也可以通过[好评](https://plugins.jetbrains.com/plugin/21470-uniapp-tool/reviews)来激励我！
 
 > 个人能力和精力有限 不是每一个需求都能解决 会优先处理赞赏用户的需求 优先处理bug 提issues请按模板提问 不按模板提问有可能会直接被我关闭 谢谢！
 
 
 ## 最新版下载
 
-[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.8-231.4/Uniapp1.0.8-231.4.zip)
+[Uniapp插件下载](https://ghproxy.com/https://github.com/lqc520/uniapp-plugin/releases/download/v1.0.9-231.2/Uniapp-1.0.9-231.2.zip)
 
 ## 插件介绍
 
@@ -93,6 +93,13 @@ Uniapp插件开发
 
 ## 版本变动
 
+### v1.0.9
+
+- 支持css emmet
+- 优化解析manifest文件
+- 优化创建页面添加记忆功能
+- 优化rpx支持（ws2023.2.2版本官方已经支持rpx/upx 低版本继续支持，高版本使用官方支持）
+
 ### v1.0.8
 
 - 创建cli项目
@@ -107,14 +114,14 @@ Uniapp插件开发
 
 - 生命周期函数优化
 - 路径跳转优化
-- .xx +tab 默认生成view
+- 支持xml emmet
 
 ### v1.0.6
 
-- 生命周期函数提示
-- cli项目取消路径识别（自行配置路径别名）
-- 条件编译高亮
-- 小程序编译时压缩代码
+- 支持生命周期函数提示
+- 优化cli项目取消路径识别（自行配置路径别名）
+- 支持条件编译高亮
+- 支持小程序编译时压缩代码
 
 ### v1.0.5
 
@@ -201,6 +208,12 @@ Uniapp插件开发
 
 ![05](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/05.png)
 
+emmet
+
+![emmet](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/50.gif)
+
+
+
 ## 感谢
 
 插件开发借鉴了不少开源项目比如wechat-mini-program-support elemen 插件官方项目、uni-helper等
@@ -212,3 +225,11 @@ Uniapp插件开发
 ![1681358169857](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/zs.jpg)
 
 感谢您的关注和支持！如果您喜欢我的插件并想要支持我，可以通过微信赞赏码进行赞赏。您的每一份赞赏都是我更新更好内容的动力。谢谢您的支持！
+
+## 联系
+
+> 加我微信注明来意
+
+![联系我](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/user.jpg?x-oss-process=image/resize,w_300,limit_0) ![群聊](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/group.jpg?x-oss-process=image/resize,w_300,limit_0)
+
+
