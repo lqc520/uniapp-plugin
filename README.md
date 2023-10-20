@@ -93,6 +93,11 @@ Uniapp插件开发
 
 ## 版本变动
 
+### v1.0.10
+
+- 支持nvue uvue类型
+- 修复bug
+
 ### v1.0.9
 
 - 支持css emmet
@@ -228,8 +233,8 @@ emmet
 
 ## 联系
 
-> 加我微信注明来意
+> 加我微信注明来意 群二维码失效可以关注公众号 会自动发送群二维码
 
 ![联系我](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/user.jpg?x-oss-process=image/resize,w_300,limit_0) ![群聊](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/group.jpg?x-oss-process=image/resize,w_300,limit_0)
 
-
+![公众号](https://wldmy.oss-cn-shenzhen.aliyuncs.com/fjdmy/img/qrcode.jpg?x-oss-process=image/resize,w_300,limit_0)
